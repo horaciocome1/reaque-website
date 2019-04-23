@@ -36,17 +36,8 @@
 		height: 530px;
 		padding-top: 135px;
 	}
-	.raindrops-canvas {
-	    height: 805px;
-	    padding-top: 0;
-	}
 	.about-area,
 	.screen-slider-area,
-	.pricing-area,
-	.subscribe-area,
-	.testimonial-area {
-		padding: 70px 0px;
-	}
 	.feature-item .icon::before,
 	.feature-item::before,
 	.feature-item::after {
@@ -75,27 +66,8 @@
 	.download-btns a {
 		margin-bottom: 20px;
 	}
-	.team-item {
-		margin-bottom: 20px;
-	}
-	.testimonial-list .owl-dots {
-		margin-top: 20px;
-	}
 	.list-item {
 		margin-bottom: 30px;
-	}
-	.letest-blog {
-		padding-bottom: 60px;
-	}
-	.contact-flex-container {
-		display: block;
-	}
-	.contact-flex-container > div {
-		padding-right: 80px;
-	}
-	.contact-flex-container .contact-address {
-		margin-bottom: 30px;
-		padding-bottom: 30px;
 	}
 
 }
@@ -109,7 +81,7 @@
         margin: 27px 0px 20px;
     }
     .header-area {
-		background: #b47cff;
+		background: #7c4dff;
 		z-index: 9;
 		box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
 	}
@@ -164,59 +136,12 @@
 	.about-area,
 	.screen-slider-area,
 	.download-area,
-	.subscribe-area,
-	.testimonial-area{
-		padding: 60px 0px;
-	}
 	.feature-area,
-	.pricing-area,
-	.achivement-area {
-		padding: 60px 0px 20px;
-	}
 	.download-btns a {
 		margin-bottom: 20px;
 	}
-	.pricing-item {
-		max-width: 420px;
-		margin: auto;
-		margin-bottom: 40px;
-	}
-	.subscribe_form .input input {
-		max-width: 420px;
-		margin-bottom: 20px;
-	}
-	.subscribe_form input[type="submit"] {
-		max-width: 420px;
-	}
-	.team-area{
-		padding: 60px 0px 40px;
-	}
-	.member-area {
-		text-align: center;
-	}
-	.team-item {
-		margin-bottom: 20px;
-		display: inline-block;
-	}
 	.list-item {
 		margin-bottom: 30px;
-	}
-	.letest-blog {
-		padding-bottom: 40px;
-	}
-	.contact-flex-container {
-		display: block;
-		padding: 0;
-	}
-	.contact-flex-container > div {
-		padding-top: 40px;
-		padding-bottom: 60px;
-	}
-	.contact-inner {
-		padding: 60px 0px 0px;
-	}
-	.achive-single {
-		margin-bottom: 70px;
 	}
 
 }
@@ -248,85 +173,16 @@
 	.about-area,
 	.screen-slider-area,
 	.download-area,
-	.subscribe-area,
-	.testimonial-area{
-		padding: 60px 0px;
-	}
 	.about-content h2 {
 		font-size: 25px;
 	}
 	.feature-area,
-	.pricing-area,
-	.achivement-area {
-		padding: 60px 0px 20px;
-	}
 	.download-btns a {
 		margin-bottom: 20px;
-	}
-	.pricing-item {
-		margin-bottom: 40px;
 	}
 	.section-title h2 {
 		font-size: 28px;
 		line-height: 35px;
-	}
-	.subscribe_form .input input {
-		margin-bottom: 20px;
-	}
-	.team-area{
-		padding: 60px 0px 40px;
-	}
-	.member-area {
-		text-align: center;
-	}
-	.team-item {
-		margin-bottom: 20px;
-		display: inline-block;
-	}
-	.achive-single {
-		margin-bottom: 40px;
-	}
-	.achive-single .icon {
-		font-size: 45px;
-		margin-bottom: 12px;
-	}
-	.achive-single h2 {
-		font-size: 46px;
-		line-height: 44px;
-	}
-	.testimonial-list .owl-dots {
-		margin-top: 0;
-	}
-	.list-item {
-		margin-bottom: 30px;
-	}
-	.letest-blog {
-		padding-bottom: 40px;
-	}
-	.contact-flex-container {
-		display: block;
-		padding: 0;
-	}
-	.contact-flex-container > div {
-		padding-top: 40px;
-		padding-bottom: 20px;
-	}
-	.contact-inner {
-		padding: 60px 0px 0px;
-	}
-	.contact-flex-container .contact-form {
-		padding-left: 50px;
-		padding-right: 50px;
-		padding-bottom: 40px;
-	}
-	.footer-inner .fsocial li a {
-		height: 50px;
-		width: 50px;
-		line-height: 50px;
-	}
-	.screen-slider img{
-		max-width: 300px;
-		margin: auto;
 	}
 
 }
