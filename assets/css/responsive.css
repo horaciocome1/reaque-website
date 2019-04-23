@@ -19,27 +19,6 @@
 		height: 737px;
 	}
 
-	/*-----------------------
-		Blog Page
-	-----------------------*/
-	.blog-post-area {
-		padding-top: 90px;
-	}
-	.bp-with-sidebar {
-	    padding-bottom: 80px;
-	}
-	.pagination-area {
-		padding-bottom: 70px;
-	}
-
-	/*-----------------------
-		Blog Details
-	-----------------------*/
-	.blog-details{
-		padding: 100px 0px;
-	}
-
-    
 }
 
 
@@ -119,33 +98,6 @@
 		padding-bottom: 30px;
 	}
 
-	/*-----------------------
-		Blog Page
-	-----------------------*/
-	.blog-post-area {
-		padding-top: 80px;
-	}
-	.bp-with-sidebar {
-	    padding-bottom: 70px;
-	}
-	.pagination-area {
-		padding-bottom: 70px;
-	}
-
-	/*-----------------------
-		Blog Details
-	-----------------------*/
-	.blog-details{
-		padding: 90px 0px;
-	}
-	.sidebar--area {
-		padding-left: 0;
-	}
-	.crumbs-inner h2 {
-		font-size: 31px;
-	}
-
-
 }
 
 /* Max Size: 320px. */
@@ -157,7 +109,7 @@
         margin: 27px 0px 20px;
     }
     .header-area {
-		background: #fe601a;
+		background: #b47cff;
 		z-index: 9;
 		box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
 	}
@@ -267,49 +219,6 @@
 		margin-bottom: 70px;
 	}
 
-	/*-----------------------
-		Blog Page
-	-----------------------*/
-	.crumbs-area {
-		display: block;
-		height: 354px;
-	}
-	.crumbs-inner {
-		width: 80%;
-		margin-top: 148px;
-		padding: 40px 0px;
-	}
-	.blog-post-area {
-		padding-top: 70px;
-	}
-	.bp-with-sidebar {
-	    padding-bottom: 60px;
-	}
-	.pagination-area {
-		padding-bottom: 80px;
-		padding-top: 20px;
-	}
-
-	/*-----------------------
-		Blog Details
-	-----------------------*/
-	.blog-details {
-		padding: 70px 0px;
-	}
-	.children {
-		padding-left: 12px;
-	}
-	.sidebar--area {
-		padding-left: 0;
-		max-width: 420px;
-	    margin: auto;
-	    margin-top: 55px;
-	}
-	.crumbs-inner h2 {
-		font-size: 26px;
-	}
-
-    
 }
 
 
@@ -419,57 +328,5 @@
 		max-width: 300px;
 		margin: auto;
 	}
-
-	/*-----------------------
-		Blog Page
-	-----------------------*/
-	.crumbs-area {
-		display: block;
-		height: 354px;
-	}
-	.crumbs-inner h2 {
-		font-size: 22px;
-	}
-	.crumbs-inner {
-		width: 100%;
-		margin-top: 148px;
-		padding: 40px 0px;
-	}
-	.blog-post-area {
-		padding-top: 60px;
-	}
-	.bp-with-sidebar {
-	    padding-bottom: 60px;
-	}
-	.pagination-area {
-		padding-bottom: 70px;
-		padding-top: 20px;
-	}
-	.pagination ul {
-		padding: 4px 0px;
-	}
-	.pagination ul li a,
-	.pagination ul li span {
-		padding: 10px 5px;
-		font-size: 11px;
-	}
-
-	/*-----------------------
-		Blog Details
-	-----------------------*/
-	.blog-details {
-		padding: 60px 0px;
-	}
-	.children {
-		padding-left: 12px;
-	}
-	.sidebar--area {
-		padding-left: 0;
-		margin-top: 60px;
-	}
-	 /*preloader hide*/
-	 #preloader{
-	 	display: none!important;
-	 }
 
 }
